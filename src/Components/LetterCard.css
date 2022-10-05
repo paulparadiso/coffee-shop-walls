@@ -1,0 +1,23 @@
+.letter-card {
+    position: absolute;
+}
+
+.horizontal .letter-card {
+    width: 56px;
+}
+
+.vertical .letter-card {
+    width: 56px;
+}
+
+.living-room .letter-card {
+    width: 63px;
+}
+
+.letter-card img {
+    width: 100%;
+}
+
+.charter-house .letter-card {
+    width: 0.67vw;
+}

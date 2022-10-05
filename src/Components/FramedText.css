@@ -1,0 +1,466 @@
+.framed-text {
+    /*transition: top 1.5s ease-in-out, transform 0.3s ease-in-out 1.5s;*/
+    z-index: 100;
+}
+
+.black-square {
+    position: absolute;
+    height: 326px;
+    text-align: center;
+    /*top: 139px;*/
+    left: 1788px;
+}
+
+.frame-image {
+    height: 100%;
+}
+
+.horizontal .black-tall-1 {
+    position: absolute;
+    width: 387px;
+    height: 481px;
+    left: 1712px;
+    /*top: -331px;*/
+}
+
+.horizontal .framed-text-quote-1 {
+    position: absolute;
+    top: 39px;
+    left: 50px;
+    width: 287px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.horizontal .framed-text-attribution-1 {
+    position: absolute;
+    top: 211px;
+    left: 50px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 287px;
+    text-transform: uppercase;
+}
+
+.living-room .grey-wide-1 {
+    position: absolute;
+    width: 414.41px;
+    height: 332.7px;
+    left: 1451.94px;
+    /*top: -342px;*/
+}
+
+.living-room .framed-text-quote-1 {
+    position: absolute;
+    top: 81px;
+    left: 50px;
+    width: 314px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-1 {
+    position: absolute;
+    left: 50px;
+    top: 231px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 314px;
+    text-transform: uppercase;
+}
+
+.living-room .black-tall-2 {
+    position: absolute;
+    width: 462px;
+    height: 577px;
+    left: 2093px;
+    /*top: -587px;*/
+}
+
+.living-room .framed-text-quote-2 {
+    position: absolute;
+    top: 162px;
+    left: 50px;
+    width: 362px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-2 {
+    position: absolute;
+    left: 50px;
+    top: 362px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 362px;
+    text-transform: uppercase;
+}
+
+.living-room .black-wide-3 {
+    position: absolute;
+    width: 373.09px;
+    height: 299.13px;
+    left: 3382.05px;
+    /*top: -309px;*/
+}
+
+.living-room .framed-text-quote-3 {
+    position: absolute;
+    top: 80px;
+    left: 50px;
+    width: 273px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-3 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 273px;
+    text-transform: uppercase;
+}
+
+.living-room .grey-square-4 {
+    position: absolute;
+    width: 271px;
+    height: 271px;
+    left: 3625px;
+    /*top: -281px;*/
+}
+
+.living-room .framed-text-quote-4 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 171px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-4 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 171px;
+    text-transform: uppercase;
+}
+
+.living-room .black-wide-5 {
+    position: absolute;
+    width: 428.75px;
+    height: 343.75px;
+    left: 4446px;
+    /*top: -353px;*/
+}
+
+.living-room .framed-text-quote-5 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 328px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-5 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 328px;
+    text-transform: uppercase;
+}
+
+.living-room .grey-wide-6 {
+    position: absolute;
+    width: 355px;
+    height: 285px;
+    left: 5629.93px;
+    /*top: -295px;*/
+}
+
+.living-room .framed-text-quote-6 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 255px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-6 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 255px;
+    text-transform: uppercase;
+}
+
+.living-room .black-wide-7 {
+    position: absolute;
+    width: 343px;
+    height: 275px;
+    left: 5863.23px;
+    /*top: -285px;*/ 
+}
+
+.living-room .framed-text-quote-7 {
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    width: 243px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-7 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 243px;
+    text-transform: uppercase;
+}
+
+.living-room .black-square-8 {
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    left: 6582.51px;
+    /*top: -330px;*/ 
+}
+
+.living-room .framed-text-quote-8 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 220px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-8 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 220px;
+    text-transform: uppercase;
+}
+
+.living-room .grey-square-9 {
+    position: absolute;
+    width: 271px;
+    height: 271px;
+    left: 6828px;
+    /*top: -281px;*/ 
+}
+
+.living-room .framed-text-quote-9 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 171px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-9 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 171px;
+    text-transform: uppercase;
+}
+
+.living-room .black-wide-10 {
+    position: absolute;
+    width: 512px;
+    height: 410px;
+    left: 7257px;
+    /*top: -420px;*/
+}
+
+.living-room .framed-text-quote-10 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 412px;
+    font-family: dosis;
+    color: white;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+.living-room .framed-text-attribution-10 {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    color: white;
+    font-family: 'dosis';
+    font-size: 24px;
+    width: 412px;
+    text-transform: uppercase;
+}
+
+.charter-house .black-square-1 {
+    position: absolute;
+    width: 4.71vw;
+    height: 49.06vh;
+    left: 23.42vw;
+    /*top: 27.02vh;*/
+}
+
+.charter-house .framed-text-quote-1 {
+    position: absolute; 
+    top: 14vh;
+    left: 0.65vw;
+    width: 3.31vw;
+    font-family: dosis;
+    color: white;
+    font-size: 2.7vh;
+    text-transform: uppercase;
+}
+
+.charter-house .framed-text-attribution-1 {
+    position: absolute;
+    top: 32vh;
+    left: 0.65vw;
+    color: white;
+    font-family: 'dosis';
+    font-size: 3vh;
+    width: 3.31vw;
+    text-transform: uppercase;
+}
+
+.charter-house .grey-square-2 {
+    position: absolute;
+    width: 6.18vw;
+    height: 63.42vh;
+    left: 45.36vw;
+    /*top: -64.42vh;*/
+}
+
+.charter-house .framed-text-quote-2 {
+    position: absolute; 
+    top: 14vh;
+    left: 0.65vw;
+    width: 4.78vw;
+    font-family: dosis;
+    color: white;
+    font-size: 2.7vh;
+    text-transform: uppercase;
+}
+
+.charter-house .framed-text-attribution-2 {
+    position: absolute;
+    top: 32vh;
+    left: 0.65vw;
+    color: white;
+    font-family: 'dosis';
+    font-size: 3vh;
+    width: 4.78vw;
+    text-transform: uppercase;
+}
+
+.charter-house .grey-wide-3 {
+    position: absolute;
+    width: 5.94vw;
+    height: 49.47vh;
+    left: 59.04vw;
+    /*top: 28.6vh;*/
+}
+
+.charter-house .framed-text-quote-3 {
+    position: absolute;     
+    top: 14vh;
+    left: 0.65vw;
+    width: 4.54vw;
+    font-family: dosis;
+    color: white;
+    font-size: 2.7vh;
+    text-transform: uppercase;
+}
+
+.charter-house .framed-text-attribution-3 {
+    position: absolute;
+    top: 32vh;
+    left: 0.65vw;
+    color: white;
+    font-family: 'dosis';
+    font-size: 3vh;
+    width: 4.54vw;
+    text-transform: uppercase;
+}
+
+.charter-house .black-square-4 {
+    position: absolute;
+    width: 5.54vw;
+    height: 57.67vh;
+    left: 76.3vw;
+    /*top: -58.67vh;*/
+}
+
+.charter-house .framed-text-quote-4 {
+    position: absolute;     
+    top: 14vh;
+    left: 0.65vw;
+    width: 4.14vw;
+    font-family: dosis;
+    color: white;
+    font-size: 2.7vh;
+    text-transform: uppercase;
+}
+
+.charter-house .framed-text-attribution-4 {
+    position: absolute;
+    top: 32vh;
+    left: 0.65vw;
+    color: white;
+    font-family: 'dosis';
+    font-size: 3vh;
+    width: 4.14vw;
+    text-transform: uppercase;
+}   

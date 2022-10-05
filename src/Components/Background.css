@@ -1,0 +1,36 @@
+.bg {
+    top: 0px;
+    left: 0px;
+    z-index: -10;
+}
+
+.horizontal .bg {
+    width: 1920px;
+    height: 1080px;
+    background-image: url('../images/Background_16-9.jpg');
+    background-size: 1920px 1080px;
+    z-index: -10;
+}
+
+.vertical .bg {
+    width: 1080px;
+    height: 1920px;
+    background-image: url('../images/Background_9-16.jpg');
+    background-size: 1080px 1920px;
+    z-index: -10;
+}
+
+.living-room .bg {
+    width: 9594px;
+    height: 1080px;
+    background-image: url('../images/Background_Wide.jpg');
+    background-size: 9594px 1080px;
+}
+
+.charter-house .bg {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../images/Background_Wide.jpg');
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}

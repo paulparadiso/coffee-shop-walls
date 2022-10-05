@@ -1,0 +1,24 @@
+.chalk-text {
+    position: absolute;
+    font-family: chelsea;
+    color: white;
+    text-align: left;
+}
+
+.living-room .chalk-text {
+    top: 220px;
+    left: 220px;
+    width: 1062px;
+    height: 522px;
+    font-size: 50px;
+    line-height: 75px;
+}
+
+.charter-house .chalk-text {
+    top: 16.11vh;
+    left: 89.83vw;
+    width: 8.77vw;
+    height: 5.86vh;
+    font-size: 7.03vh;
+    line-height: 10.25vh;
+}

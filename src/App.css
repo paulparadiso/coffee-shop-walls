@@ -1,3 +1,13 @@
+@font-face {
+  font-family: dosis;
+  src: url("fonts/Dosis/Dosis-Regular.ttf");
+}
+
+@font-face {
+  font-family: chelsea;
+  src: url("fonts/ChelseaMarket/ChelseaMarket-Regular.ttf");
+}
+
 .App {
   text-align: center;
 }

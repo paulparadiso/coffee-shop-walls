@@ -1,0 +1,98 @@
+.clock-body {
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.vertical .clock-body {
+    background-image: url("../images/Clock/Small/Clock_0002_Clock-Base.png");
+    width: 349px;
+    height: 347px;
+    left: 362px;
+    top: 139px;
+}
+
+.living-room .clock-body {
+    background-image: url("../images/Clock/Big/Clock Base.png");
+    left: 2804px;
+    top: 240px;
+    width: 362px;
+    height: 355px;
+}
+
+.charter-house .clock-body {
+    background-image: url("../images/Clock/Big/Clock Base.png");
+    left: 30.71vw;
+    top: 34.29vh;
+    width: 3.41vw;
+    height: 34.99vh;
+}
+
+.hour-hand {
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.vertical .hour-hand {
+    background-image: url("../images/Clock/Small/Clock_0001_Hour-Hand.png");
+    width: 70px;
+    height: 5px;
+    left: 540px;
+    top: 320px;
+    transform-origin: 0px 2.5px;
+}
+
+.living-room .hour-hand {
+    background-image: url("../images/Clock/Big/Hour Hand.png");
+    width: 70px;
+    height: 5px;
+    left: 2990px;
+    top: 413px;
+    transform-origin: 0px 2.5px;
+}
+
+.charter-house .hour-hand {
+    background-image: url("../images/Clock/Big/Hour Hand.png");
+    width: 0.7vw;
+    height: 0.52vh;
+    left: 32.42vw;
+    top: 51.4vh;
+    transform-origin: 0px 0.26vh;
+}
+
+.minute-hand {
+    position: absolute; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform-origin: 3.5px 0px;
+}
+
+.vertical .minute-hand {
+    background-image: url("../images/Clock/Small/Clock_0000_Minute-Hand.png");
+    width: 11px;
+    height: 98px;
+    left: 543px;
+    top: 320px;
+}
+
+.living-room .minute-hand {
+    background-image: url("../images/Clock/Big/Minute Hand.png");
+    width: 7px;
+    height: 120px;
+    left: 2990px;
+    top: 413px;
+    transform-origin: 3.5px 0px; 
+}
+
+.charter-house .minute-hand {
+    background-image: url("../images/Clock/Big/Minute Hand.png");
+    width: 0.4vw;
+    height: 9.61vh;
+    left: 32.2vw;
+    top: 50.4vh;
+    transform-origin: 3.5px 0px;
+}

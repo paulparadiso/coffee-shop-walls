@@ -1,0 +1,8 @@
+.living-room .slider-hider {
+    position: absolute;
+    top: 0vw;
+    left: 9vw;
+    width: 40vw;
+    height: 100vh;
+    overflow: hidden;
+}

@@ -1,0 +1,10 @@
+.image-sequence {
+    position: absolute; 
+    left: 0px;
+    top: 0px;
+    width: 20vw;
+}
+
+.image-sequence-image {
+    width: 100%;
+}

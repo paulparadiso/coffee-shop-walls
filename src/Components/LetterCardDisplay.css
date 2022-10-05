@@ -1,0 +1,61 @@
+.letter-card-display {
+}
+
+.horizontal .letter-card-display {
+    position: absolute;
+    width: 1730px;
+    height: 973px;
+    top: -15px;
+    left: 95px;
+}
+
+.vertical .letter-card-display {
+    width: 100vw;
+    height: 100vh;
+}
+
+.living-room .letter-card-display {
+    position: absolute;
+    width: 20.38vw;
+    height: 101vh;
+    left: 80.08vw;
+    top: 0;
+}
+
+.charter-house .letter-card-display {
+    position: absolute;
+    width: 21vw;
+    height: 123.3vh;
+    left: 4vw;
+    top: -8.9vh;    
+}
+
+.letter-card-display-bars {
+}
+
+.horizontal .letter-card-display-bars {
+    top: -12px;
+    left: 100px;
+    width: 89.2vw;
+    height: 89.6vh;
+}
+
+.vertical .letter-card-display-bars {
+    width: 94%;
+    height: 34.6%;
+    position: absolute;
+    top: 723px;
+    left: 29px;
+}
+
+.living-room .letter-card-display-bars {
+    width: 100%;
+    height: 100%;
+}
+
+.charter-house .letter-card-display-bars {
+    width: 21vw;
+    height: 123.3vh;
+    left: 4vw;
+    top: -8.9vh;    
+}
